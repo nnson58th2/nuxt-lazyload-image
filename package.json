@@ -1,0 +1,18 @@
+{
+  "name": "nuxt-lazyload-image",
+  "version": "1.0.0",
+  "description": "Demo Lazyload Image",
+  "author": "Son Nguyen",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "vue-lazyload": "^1.3.3"
+  },
+  "devDependencies": {}
+}
